@@ -1,0 +1,27 @@
+{
+  "name": "backup",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueup/vue-quill": "^1.2.0",
+    "axios": "^1.7.5",
+    "element": "^0.1.4",
+    "element-plus": "^2.8.1",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^4.0.0-alpha.4",
+    "plus": "^0.1.0",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "sass": "^1.77.8",
+    "vite": "^5.3.1"
+  }
+}
